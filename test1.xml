@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<records>
+  <record>
+    <id>1</id>
+    <firstname>JUAN</firstname>
+    <lastname>DELACRUZ</lastname>
+    <id>2</id>
+    <firstname>BEA</firstname>
+    <lastname>SANTOS</lastname>
+    <id>3</id>
+    <firstname>JENNIE</firstname>
+    <lastname>KIM</lastname>
+    <id>4</id>
+    <firstname>PETER</firstname>
+    <lastname>PARKER</lastname>
+  </record>
+</records>
